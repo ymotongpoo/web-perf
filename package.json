@@ -1,0 +1,19 @@
+{
+  "name": "web-perf",
+  "version": "1.0.0",
+  "description": "performance analysis on web sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ymotongpoo/web-perf.git"
+  },
+  "author": "Yoshi Yamaguchi",
+  "license": "CC-BY-NC-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/ymotongpoo/web-perf/issues"
+  },
+  "homepage": "https://github.com/ymotongpoo/web-perf#readme"
+}
